@@ -1,4 +1,4 @@
-# ugwue_chibike# Hi, I'm Emmanuel 👋
+Hi, I'm Emmanuel 👋
 
 **Mechanical engineering student** who builds **Python automation & real-time dashboards** and writes **clean, precise technical documents**. I help businesses and individuals turn messy data into working tools and rough drafts into polished, professional work.
 
