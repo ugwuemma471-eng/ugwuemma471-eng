@@ -49,7 +49,7 @@ I'm learning and shipping real Python tools: automation scripts, CSV/Excel utili
 I take on **technical writing and editing** projects of any size — from a quick proofread to a fully formatted report. Fast turnaround on small jobs.
 
 - 📧 **Email:** ugwuemma471@gmail.com
-- 💬 **Fiverr:** *paste your gig link here once it's live*
+- 💬 **Fiverr:** [Proofreading & Editing gig](https://fiverr.com/s/jjNAoK7)
 - 💼 **Upwork:** *paste your profile link here once it's live*
 
 ---
